@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999991902904",
+    "project_id": "chatapp-96a89",
+    "storage_bucket": "chatapp-96a89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999991902904:android:e5ea57ffdb03f3526a2a4d",
+        "android_client_info": {
+          "package_name": "kr.co.hanbit.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999991902904-e0b37hnuqfjd2i1tu9nik0lsam6pr11m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCszY1I92t3k1Cp8CvpfkEMARjC0rcYkqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999991902904-e0b37hnuqfjd2i1tu9nik0lsam6pr11m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
